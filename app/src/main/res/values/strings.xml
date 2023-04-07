@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Chopin</string>
+    <string name="admob_interstitial_id">ca-app-pub-2081856024983169/3108574370</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2081856024983169/9701902886</string>
+    <string name="info">Fryderyk Franciszek Chopin – the most outstanding Polish composer and pianist,
+        born in the village of Żelazowa Wola in the district of Sochaczew. The composer and his family held his date of
+        birth to be 1 March 1810, yet the certificate of baptism signed in the parish church of Brochów is dated 22 February.
+        That discrepancy has still not been entirely resolved, although today it is the date celebrated by Chopin and his
+        family that is more often used. Chopin’s first piano teacher, Adalbert Zywny, had already introduced him to the music
+        of Bach and the Viennese classics. As a pianist, however, Chopin is considered to have been self-taught:
+        he doesn’t seem to have needed to practise very much. His more extended early works were decorative and brilliant,
+        in the line of display pieces by touring virtuosos like Hummel. After giving two big concerts in Warsaw at which he
+        introduced his two piano concertos, Chopin left for Vienna in November 1830, staying eight months, during which he
+        learnt of the Warsaw Uprising. He never saw Poland again. He made his way to Paris, where he soon felt at home,
+        since there were many Polish émigrés in the French capital. His music sold well, and from 1833 it was published
+        simultaneously in England, France and Germany. Chopin wrote Nocturnes and shorter pieces in dance forms, such as Mazurkas, Waltzes and Polonaises, throughout his career.
+        He found his mature style early, with the first set of Études, Op. 10 (1829–32). These are still, with their sequel,
+        the Op. 25 set, the cornerstone of modern piano technique, as well as powerfully poetic pieces.
+    </string>
+
+</resources>

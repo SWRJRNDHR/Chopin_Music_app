@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "646585461968",
+    "firebase_url": "https://chopinmusic-5d0c3.firebaseio.com",
+    "project_id": "chopinmusic-5d0c3",
+    "storage_bucket": "chopinmusic-5d0c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646585461968:android:874f3c594520354e",
+        "android_client_info": {
+          "package_name": "com.songs.chopinmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646585461968-vr5viaba3bvf076e54r6fb5rf755qbai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.songs.chopinmusic",
+            "certificate_hash": "c588e0e784a756bd16a09685cd7b1dced31d1952"
+          }
+        },
+        {
+          "client_id": "646585461968-1ambohrep4df6nuat6m0sq0jq5ebvkl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYLp61bk18naEZlCXP1hJBbXQ2F1_TZaw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646585461968-1ambohrep4df6nuat6m0sq0jq5ebvkl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
